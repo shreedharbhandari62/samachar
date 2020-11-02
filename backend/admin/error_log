@@ -1,0 +1,249 @@
+[15-May-2020 15:49:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 4
+[15-May-2020 15:49:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 4
+[15-May-2020 15:50:20 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 16:23:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 16:23:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 16:24:36 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrash.php on line 81
+[15-May-2020 16:24:43 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrash.php on line 81
+[15-May-2020 16:24:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageArchiveNews.php on line 81
+[15-May-2020 16:24:52 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageVideoNews.php on line 81
+[15-May-2020 16:25:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 16:25:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[15-May-2020 22:53:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrash.php on line 81
+[15-May-2020 22:54:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrash.php on line 81
+[15-May-2020 22:54:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 22:54:46 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 23:45:31 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[15-May-2020 23:46:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[15-May-2020 23:50:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:31:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:31:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 02:31:34 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:32:11 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[16-May-2020 02:33:11 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:35:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:39:03 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[16-May-2020 02:39:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrash.php on line 81
+[16-May-2020 02:39:20 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageArchiveNews.php on line 81
+[16-May-2020 02:40:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:40:18 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 02:43:20 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[16-May-2020 02:45:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[16-May-2020 02:45:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[16-May-2020 02:50:00 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 02:54:26 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 02:55:27 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 03:00:04 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 03:00:30 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[16-May-2020 03:00:31 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 03:03:44 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[16-May-2020 03:03:47 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:10:50 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 8
+[15-May-2020 22:10:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php:4
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php(8): insertToArchive(NULL)
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/index.php(1): include('/home/hmlprnt/p...')
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 4
+[15-May-2020 22:10:57 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:10:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:14:15 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 8
+[15-May-2020 22:14:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 4
+[15-May-2020 22:14:26 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:14:26 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:15:37 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:15:37 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:20:17 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:20:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/admin/login.php on line 11
+[15-May-2020 22:21:39 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 8
+[15-May-2020 22:21:39 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 4
+[15-May-2020 22:28:52 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:36:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 22:36:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 22:36:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 22:36:28 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 22:50:41 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:50:53 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:50:55 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 22:51:27 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:51:40 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 22:52:34 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 22:53:15 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 22:54:02 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 22:54:06 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 22:57:40 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 23:00:00 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageAdmin.php on line 81
+[15-May-2020 23:06:30 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 23:18:02 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[15-May-2020 23:19:29 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageTrending.php on line 81
+[15-May-2020 23:22:37 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 23:22:41 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 23:22:59 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 81
+[15-May-2020 23:23:08 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 23:27:16 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hmlprnt/public_html/Samachar/backend/admin/manageCategory.php on line 81
+[15-May-2020 23:28:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 23:28:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[15-May-2020 23:57:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_name' cannot be null' in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php:24
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php(24): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/addSubCatagory.php(225): insertSubCategory(Object(PDO), Array)
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php on line 24
+[16-May-2020 00:36:40 America/Chicago] PHP Warning:  unlink(../newsImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 296
+[16-May-2020 00:36:40 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 298
+[16-May-2020 00:37:43 America/Chicago] PHP Warning:  unlink(../newsImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 296
+[16-May-2020 00:37:43 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 298
+[16-May-2020 00:37:51 America/Chicago] PHP Warning:  unlink(../newsImage/5eb8197d9766a4.93431888.jpg): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 48
+[16-May-2020 00:37:51 America/Chicago] PHP Notice:  Undefined variable: file_pointer in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 49
+[16-May-2020 00:37:51 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/5eb8197d979969.16646337.jpg): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 55
+[16-May-2020 00:37:51 America/Chicago] PHP Warning:  unlink(../newsWriterImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 61
+[16-May-2020 00:37:54 America/Chicago] PHP Warning:  unlink(../newsImage/5eb8182ab04449.38909222.jpg): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 48
+[16-May-2020 00:37:54 America/Chicago] PHP Notice:  Undefined variable: file_pointer in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 49
+[16-May-2020 00:37:54 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/5eb8182ab076d7.80314122.jpg): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 55
+[16-May-2020 00:37:54 America/Chicago] PHP Warning:  unlink(../newsWriterImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/archivefunctions.php on line 61
+[16-May-2020 00:43:13 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 00:43:13 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 00:56:15 America/Chicago] PHP Warning:  unlink(../newsImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 296
+[16-May-2020 00:56:15 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 298
+[16-May-2020 01:12:34 America/Chicago] PHP Warning:  unlink(../newsImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 296
+[16-May-2020 01:12:34 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 298
+[16-May-2020 01:35:01 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 01:35:01 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 02:09:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 02:09:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 02:10:08 America/Chicago] PHP Warning:  unlink(../newsImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 296
+[16-May-2020 02:10:08 America/Chicago] PHP Warning:  unlink(../newsFeaturedImage/): Is a directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 298
+[16-May-2020 02:35:21 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 02:35:21 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 03:06:18 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 03:06:18 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 03:53:51 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/SubCategoryIDRetrive1.php on line 9
+[16-May-2020 05:02:52 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 05:02:52 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 05:42:45 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 05:42:45 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 06:38:02 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 06:38:02 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 07:26:12 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[16-May-2020 07:26:12 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[17-May-2020 02:46:15 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[17-May-2020 02:46:15 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[17-May-2020 03:34:14 America/Chicago] PHP Fatal error:  Call to undefined function countTotalAdmin() in /home/hmlprnt/public_html/Samachar/backend/admin/index.php on line 84
+[17-May-2020 03:34:47 America/Chicago] PHP Fatal error:  Call to undefined function countTotalAdmin() in /home/hmlprnt/public_html/Samachar/backend/admin/index.php on line 84
+[17-May-2020 03:35:13 America/Chicago] PHP Fatal error:  Call to undefined function countTotalAdmin() in /home/hmlprnt/public_html/Samachar/backend/admin/index.php on line 84
+[17-May-2020 03:35:52 America/Chicago] PHP Fatal error:  Call to undefined function countTotalAdmin() in /home/hmlprnt/public_html/Samachar/backend/admin/index.php on line 84
+[17-May-2020 05:55:53 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[17-May-2020 05:55:53 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[17-May-2020 06:27:51 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:28:42 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/editNews.php on line 138
+[17-May-2020 06:28:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:29:03 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_id' cannot be null' in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php:138
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php(138): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/deleteNews.php(5): insertNewsIntoTrash(Object(PDO), Array, '71')
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 138
+[17-May-2020 06:30:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:30:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:33:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:33:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/backend/admin/manageNews.php on line 127
+[17-May-2020 06:34:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_id' cannot be null' in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php:138
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php(138): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/deleteNews.php(5): insertNewsIntoTrash(Object(PDO), Array, '72')
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 138
+[17-May-2020 10:06:36 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_name' cannot be null' in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php:24
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php(24): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/addSubCatagory.php(225): insertSubCategory(Object(PDO), Array)
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php on line 24
+[17-May-2020 10:07:01 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_name' cannot be null' in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php:24
+Stack trace:
+#0 /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php(24): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/Samachar/backend/admin/addSubCatagory.php(225): insertSubCategory(Object(PDO), Array)
+#2 {main}
+  thrown in /home/hmlprnt/public_html/Samachar/backend/app/subCategoryfunction.php on line 24
+[18-May-2020 00:57:39 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec22053ddbc92.75288666.): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 303
+[18-May-2020 00:57:46 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec222818a4726.79230431.): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 303
+[18-May-2020 01:43:51 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 01:43:51 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 03:07:13 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 03:07:13 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 05:05:56 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 05:05:56 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 05:51:43 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 05:51:43 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 08:01:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[18-May-2020 08:01:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[20-May-2020 08:17:03 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[20-May-2020 08:17:03 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 74
+[20-May-2020 11:45:54 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ebfdec384bd43.08855690.): No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/newsfunctions.php on line 303
+[20-May-2020 22:37:19 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 77
+[20-May-2020 22:37:19 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:08:19 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:08:19 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/Samachar/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:36:33 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:36:33 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:51:44 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:51:44 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 00:55:00 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subcategory_name' cannot be null' in /home/hmlprnt/public_html/backend/app/subCategoryfunction.php:23
+Stack trace:
+#0 /home/hmlprnt/public_html/backend/app/subCategoryfunction.php(23): PDOStatement->execute()
+#1 /home/hmlprnt/public_html/backend/admin/addSubCatagory.php(225): insertSubCategory(Object(PDO), Array)
+#2 {main}
+  thrown in /home/hmlprnt/public_html/backend/app/subCategoryfunction.php on line 23
+[21-May-2020 01:32:52 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 01:32:52 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 04:26:28 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 04:26:28 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 05:34:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 05:34:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 09:31:29 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 09:31:29 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:24 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:24 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:30 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:30 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:43 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:43 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:50 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:11:50 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[21-May-2020 12:36:56 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec6b88e4abab5.07024024.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[21-May-2020 12:37:11 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ebfdcd8e5e0f6.49623428.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[21-May-2020 12:37:14 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ebfdd63d4d989.26720743.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[21-May-2020 12:42:53 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11d186c2360.93751034.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:06:17 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[22-May-2020 00:06:17 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[22-May-2020 00:07:42 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ebfddb5611f62.27426747.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:07:49 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec1190766a746.05041783.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:07:54 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec119b4d12cd7.31655955.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:07:58 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11a2ee45876.51265864.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:02 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11ad5aa8d92.22678736.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:05 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11b3bc2b0c8.12905021.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:25 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec1222a82d778.95012243.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:27 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11d9fde5c43.31630238.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:32 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11e22b96dd5.75090145.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:46 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11e846e1ef7.21215929.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:49 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11f0c33ea61.11871064.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:08:52 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec11f60ba6e94.84183732.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:02 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec121237e8ae1.38627361.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:05 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec1229d1419e2.11363151.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:08 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec1230e184428.67111448.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:11 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec123f5add2b6.75972577.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:14 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec12457e72529.87602781.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:09:18 America/Chicago] PHP Warning:  unlink(../newsWriterImage/5ec124e0513f97.99210450.): No such file or directory in /home/hmlprnt/public_html/backend/app/newsfunctions.php on line 299
+[22-May-2020 00:35:50 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[22-May-2020 00:35:50 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[22-May-2020 01:30:05 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[22-May-2020 01:30:05 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 01:26:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 01:26:41 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 02:05:16 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 02:05:16 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 07:27:22 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77
+[23-May-2020 07:27:22 America/Chicago] PHP Notice:  Undefined index: admin in /home/hmlprnt/public_html/backend/admin/layouts/header.php on line 77

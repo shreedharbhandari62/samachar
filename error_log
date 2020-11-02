@@ -1,0 +1,372 @@
+[15-May-2020 15:46:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:46:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:46:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:46:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:47:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:48:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:48:11 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 15:49:20 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 16:02:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[15-May-2020 22:25:04 America/Chicago] PHP Notice:  Undefined variable: conn in /home/hmlprnt/public_html/Samachar/frontend/layouts/header.php on line 80
+[15-May-2020 22:25:04 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/hmlprnt/public_html/Samachar/backend/app/frontendfunctions.php on line 3
+[16-May-2020 00:24:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/hmlprnt/public_html/Samachar/frontend/subCategoryViewAll.php on line 39
+[16-May-2020 00:55:35 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 01:09:38 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/videoNewsDetail.php on line 31
+[16-May-2020 02:58:21 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 02:58:21 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 02:59:26 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 02:59:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:00:46 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:00:46 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:01:21 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:01:21 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:01:56 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:01:56 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:03 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:15 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:20 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:02:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:03:46 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:03:46 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:03:50 America/Chicago] PHP Warning:  require(commentfunctions.php): failed to open stream: No such file or directory in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:03:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'commentfunctions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hmlprnt/public_html/Samachar/backend/app/call.php on line 10
+[16-May-2020 03:56:04 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:51:35 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:52:42 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:54:15 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:57:07 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:57:19 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:57:31 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:58:03 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:59:00 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 05:59:07 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 06:01:42 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 06:03:31 America/Chicago] PHP Fatal error:  Call to undefined function getAllCommentsByNewsId() in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 64
+[16-May-2020 07:47:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 07:48:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 08:17:52 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 14:17:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 20:40:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 20:40:02 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/videoNewsDetail.php on line 31
+[16-May-2020 23:00:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:10 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:10 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:00:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:01:03 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:01:03 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:01:03 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:01:03 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[16-May-2020 23:01:21 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:33 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:33 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:33 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:33 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:42 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 00:27:42 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 01:46:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 02:33:03 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 05:09:12 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 08:52:58 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 08:52:58 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 15:35:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 20:51:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 20:51:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[17-May-2020 20:51:43 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 00:57:04 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 00:57:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 00:58:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 01:04:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 01:04:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 02:26:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 02:26:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 05:11:48 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 05:24:50 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 05:24:51 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 06:07:12 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 06:58:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 07:34:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 07:34:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 09:02:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 09:35:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 09:35:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 09:35:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 10:05:53 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 10:05:53 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 10:05:53 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 10:05:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 11:34:04 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 11:50:30 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 14:57:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 14:57:46 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 19:55:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 19:55:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 20:41:39 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 20:41:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 20:41:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 20:41:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 20:41:42 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 21:23:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 22:38:20 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 22:38:25 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[18-May-2020 23:28:42 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 01:10:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 01:10:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 01:10:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 01:10:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 01:22:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 04:07:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 07:42:20 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 07:42:21 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 08:27:29 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 08:27:30 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 10:15:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 10:15:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 10:28:36 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 10:28:36 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 15:48:38 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 15:48:39 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 16:59:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 16:59:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 16:59:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 16:59:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 19:09:47 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 19:09:50 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 22:08:39 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 22:08:39 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 22:52:22 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[19-May-2020 22:52:22 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 00:10:29 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 00:10:30 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 01:26:10 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 02:44:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 02:44:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 03:20:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 03:53:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 05:12:44 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 06:25:44 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 07:03:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 08:12:34 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 08:49:28 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 09:40:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 09:40:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 10:56:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:40:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:40:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:41:12 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:52:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:52:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:52:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 12:52:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 15:11:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 15:11:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 15:18:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 15:18:43 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 19:01:10 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 19:01:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 19:01:12 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 19:01:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 19:40:35 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 20:18:34 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 21:19:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 21:19:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 21:53:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 22:12:25 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[20-May-2020 22:24:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:05 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:06 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:09:08 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 00:10:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/Samachar/frontend/newsDetail.php on line 31
+[21-May-2020 02:52:33 America/Chicago] PHP Warning:  openssl_decrypt(): Failed to base64 decode the input in /home/hmlprnt/public_html/backend/app/encryptAndDecryptFunction.php on line 43
+[21-May-2020 02:52:57 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/category-02.php on line 3
+[22-May-2020 02:38:48 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[22-May-2020 02:38:48 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[22-May-2020 23:23:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:23:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:24:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/hmlprnt/public_html/newsDetail.php on line 78
+[22-May-2020 23:32:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'backend' (T_STRING), expecting ']' in /home/hmlprnt/public_html/layouts/header.php on line 82
+[23-May-2020 00:05:03 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 22
+[23-May-2020 00:06:35 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 22
+[23-May-2020 00:06:35 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 22
+[23-May-2020 00:07:23 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 00:07:23 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:07:23 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:07:23 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 5
+[23-May-2020 00:08:33 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 00:08:33 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:08:33 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:08:33 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 5
+[23-May-2020 00:10:14 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:10:14 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:10:14 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 5
+[23-May-2020 00:10:56 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 22
+[23-May-2020 00:12:18 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:12:46 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:14:12 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:17:30 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:18:13 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:18:54 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:18:54 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:19:24 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:19:24 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:19:24 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:19:24 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:19:52 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:19:52 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:20:03 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:20:03 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:21:08 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:21:08 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:21:53 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/newsDetail.php on line 4
+[23-May-2020 00:21:53 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 6
+[23-May-2020 00:23:50 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/layouts/header.php on line 11
+[23-May-2020 00:23:50 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/layouts/header.php on line 13
+[23-May-2020 00:27:00 America/Chicago] PHP Notice:  Undefined variable: actual_link in /home/hmlprnt/public_html/layouts/header.php on line 11
+[23-May-2020 00:27:00 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/layouts/header.php on line 13
+[23-May-2020 00:39:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 32
+[23-May-2020 00:39:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 32
+[23-May-2020 00:39:33 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 32
+[23-May-2020 00:53:39 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:54:33 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:54:36 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:54:38 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:54:56 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:55:13 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:56:16 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:56:46 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:56:46 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:58:10 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:58:10 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:58:10 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 00:58:10 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:58:58 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:59:03 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 00:59:56 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:00:33 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:00:33 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:02:02 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 5
+[23-May-2020 01:07:35 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:07:40 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:08:03 America/Chicago] PHP Fatal error:  Call to undefined function decryptionFunction() in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:08:55 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:09:05 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:09:55 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:10:19 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:10:37 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:11:11 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:11:49 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:12:03 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:12:04 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:12:39 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:12:59 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:12:59 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 2
+[23-May-2020 01:14:05 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:14:26 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:14:26 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:14:53 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:15:06 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:15:06 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:15:35 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 01:35:37 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:35:37 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:35:37 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:35:37 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:35:38 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:35:38 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:42:19 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:42:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:42:19 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:42:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:42:30 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:42:30 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:42:31 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:42:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 01:42:34 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 01:42:34 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 31
+[23-May-2020 02:00:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/hmlprnt/public_html/subCategoryViewAll.php on line 43
+[23-May-2020 02:09:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 02:09:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 02:25:26 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 02:25:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 02:30:49 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 02:30:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 05:37:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 05:37:55 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 06:44:27 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:46:42 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:46:43 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:52:17 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:54:27 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:54:31 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:55:04 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 06:55:31 America/Chicago] PHP Notice:  Undefined variable: result in /home/hmlprnt/public_html/newsDetail.php on line 1
+[23-May-2020 07:10:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 07:21:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/hmlprnt/public_html/newsDetail.php on line 596
+[23-May-2020 07:22:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/hmlprnt/public_html/newsDetail.php on line 596
+[23-May-2020 12:38:56 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 14:54:19 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 14:54:19 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 14:54:19 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[23-May-2020 14:54:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 14:54:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 14:54:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[23-May-2020 23:57:21 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 03:44:52 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 03:44:53 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 16:31:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 16:31:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 19:38:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 19:38:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 19:39:07 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 19:39:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 19:39:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 22:23:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 22:23:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[24-May-2020 22:23:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 09:05:59 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 11:41:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 11:41:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 21:08:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 21:08:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 23:33:09 America/Chicago] PHP Notice:  Undefined index: ref in /home/hmlprnt/public_html/newsDetail.php on line 3
+[25-May-2020 23:33:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 23:33:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[25-May-2020 23:34:44 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[26-May-2020 11:32:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[26-May-2020 11:32:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[27-May-2020 11:38:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[27-May-2020 21:57:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[28-May-2020 16:57:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[28-May-2020 16:57:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[28-May-2020 23:26:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[28-May-2020 23:26:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[28-May-2020 23:26:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[29-May-2020 01:56:59 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[29-May-2020 01:57:20 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[29-May-2020 17:07:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[29-May-2020 17:07:44 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37
+[29-May-2020 17:07:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/hmlprnt/public_html/newsDetail.php on line 37

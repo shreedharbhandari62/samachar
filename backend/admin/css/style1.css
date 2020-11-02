@@ -1,0 +1,14 @@
+
+.error{
+    color: red;
+}
+
+.border-red{   
+    border-color : red!important;
+    color: red!important;    
+}
+
+.border-green{   
+    border-color : green!important;
+    color: green!important;    
+}
